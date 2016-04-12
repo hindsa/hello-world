@@ -1,3 +1,5 @@
 # hello-world
+
 resources
-Giving life to my ideas
+
+I'm Ariel and I decided to give life to my ideas. 
